@@ -7,4 +7,5 @@ Notes from the Stanford course (free version) on Deep Learning for Natural Langu
 |            Lecture          |                            Title                               |
 |:---------------------------:|:--------------------------------------------------------------:|
 |[Lecture 1](/lectures/lecture1.ipynb)|Introduction and Word Vectors|
+|[Lecture 2](/lectures/lecture2.ipynb)|Word Vectors and Word Senses|
 
